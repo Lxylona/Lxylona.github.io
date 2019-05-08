@@ -1,4 +1,4 @@
-[test](https://github.com/Lxylona/Lxylona.github.io)
+[test](https://github.com/Lxylona/Lxylona.github.io/test.md)
 
 ## Welcome to GitHub Pages
 
